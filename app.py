@@ -23,7 +23,4 @@ Model predicts based on deep learning (CNN trained model).
 uploaded_file = st.file_uploader("📤 Upload a retina image (JPG or PNG)", type=["jpg", "jpeg", "png"])
 
 # --- Prediction labels ---
-classes = [
-    "No Diabet
-
-
+c
